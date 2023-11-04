@@ -24,7 +24,7 @@ posebne prostorije za obroke, zabavu i odmor.
 - Princip
 - RiTeh
 - TechSquad
-- xTripeA
+- xTripleA
 
 ## Žiri
 
