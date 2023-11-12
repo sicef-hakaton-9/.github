@@ -1,30 +1,27 @@
-![SICEF Hakaton #9 Baner](./Baner.png)
+<picture>
+  <source srcset="https://github.com/sicef-hakaton-9/.github/raw/main/Baner.avif" type="image/avif">
+  <source srcset="https://github.com/sicef-hakaton-9/.github/raw/main/Baner.webp" type="image/webp">
+  <img src="https://github.com/sicef-hakaton-9/.github/blob/main/Baner.png" style="width: 100%; height: auto;" alt="SICEF Hakaton #9 Baner">
+</picture>
 
-## O Hakatonu
+# SICEF Hakaton #9
 
-Hakaton je dvadesetčetvoročasovno ekipno takmičenje u kreiranju aplikacije na zadatu temu
-koje će se održati na Elektronskom fakultetu i u Naučno tehnološkom parku Niš od 3. do 5.
-novembra 2023. godine. Tema je nepoznata učesnicima pre samog početka takmičenja, i biće
-saopštena na svečanom otvaranju Hakatona. Kao glavni ciljevi Hakatona jesu podsticanje
-inovativnosti, kreativnosti i mogućnosti da mladi ljudi steknu neprocenjljivo iskustvo
-rada u timu i pod pritiskom, s obzirom na to da je potrebno za 24h stvoriti originalnu
-aplikaciju, koja će zainteresovati široku grupu korisnika i imati adekvatnu primenu.
-Prva tri tima po odluci stručnog žirija, pored bogatog iskustva, sa ovog takmičenja
-odlaze i sa nekom od vrednih nagrada. Pre i posle takmičenja organizuju se i zanimljiva
-predavanja. Svaki od timova dobija sopstvenu prostoriju za rad opremljenu tablom, kao i
-pristup Internetu preko fakultetske mreže. Pored toga, takmičarima su na raspolaganju i
-posebne prostorije za obroke, zabavu i odmor.
+**Deveti** po redu [SICEF Hakaton](https://hakaton.sicef.info) održan je **od 3. do 5. novembra 2023. godine na Elektronskom fakultetu u Nišu i Naučno-tehnološkom parku Niš**.
+
+Tema hakatona je bila „**softverska podrška pametnim gradovima**”.
+
+Na ovoj stranici možete naći rešenja timova na zadatoj temi.
 
 ## Timovi
 
-- Algo_4
-- CyberInsecurity
-- Fizzbuzz 100k
-- IntMejn
-- Princip
-- RiTeh
-- TechSquad
-- xTripleA
+- [RiTeh](https://github.com/sicef-hakaton-9/riteh) (🥇 1. mesto)
+- [CyberInsecurity](https://github.com/sicef-hakaton-9/cyberinsecurity) (🥈 2. mesto)
+- [Fizzbuzz 100k](https://github.com/sicef-hakaton-9/fizzbuzz-100k) (🥉 3. mesto)
+- [Algo_4](https://github.com/sicef-hakaton-9/algo_4)
+- [IntMejn](https://github.com/sicef-hakaton-9/intmejn)
+- [Princip](https://github.com/sicef-hakaton-9/princip)
+- [TechSquad](https://github.com/sicef-hakaton-9/techsquad)
+- [xTripleA](https://github.com/sicef-hakaton-9/xtriplea)
 
 ## Žiri
 
@@ -32,3 +29,12 @@ posebne prostorije za obroke, zabavu i odmor.
 - Dr Aleksandar Milenković - Docent na Katedri za računarstvo @ Elektronski Fakultet u Nišu
 - Miloš Grozdanović - Pomoćnik direktora za razvoj poslovanja @ NTP Niš
 - Miloš Stojanović - Senior Software Engineer & People Manager @ BadinSoft
+
+## Pogledajte i
+
+- [Hakaton #8](https://github.com/sicef-hakaton-8)
+- [Hakaton #10](https://github.com/sicef-hakaton-10)
+
+---
+
+Više o SICEF-u, organizatoru SICEF Hakatona, možete saznati na sajtu: https://sicef.info.
